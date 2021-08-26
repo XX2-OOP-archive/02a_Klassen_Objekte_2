@@ -12,6 +12,8 @@ public class App {
       ausgabe("Alter: " + cat1.getAge());
       ausgabe("Alter: " + cat1.getAge());
       ausgabe("Alter: " + cat1.getAge());
+      ausgabe("Alter: " + cat1.getAge());
+    
     
       ausgabe("--------------------");
 
@@ -21,7 +23,9 @@ public class App {
       ausgabe("Fellfarbe: " + cat2.getStringAttributes("#color"));
       
       ausgabe("Alter: " + cat2.getAge());
-    
+      ausgabe("Alter: " + cat2.getAge());
+      ausgabe("Alter: " + cat2.getAge());
+
     }
 
     public static void ausgabe(String outputStr) {
