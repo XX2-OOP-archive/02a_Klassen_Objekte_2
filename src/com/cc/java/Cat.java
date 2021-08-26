@@ -13,17 +13,9 @@ public class Cat {
         this.age = age;
     }
 
-    public Cat tellYourAddress(){
-       return this;
-    }
-
+   
     public String getName() {
         return name;
-    }
-
-    public void setName(String name) {
-       // ggf. Rechte erfragen ...
-        this.name = name;
     }
 
     public String getFurColor() {
